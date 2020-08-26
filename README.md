@@ -38,7 +38,7 @@ else:
 
 Use some plugin manager, e.g.
 
-    Plug 'https://github.com/lverweijen/vim-easy-refactor.git'
+    Plug 'https://github.com/lverweijen/vim-irrepleaceable.git'
 
 ## Configuration ##
 

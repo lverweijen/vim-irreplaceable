@@ -2,6 +2,8 @@
 
 Let's say you want to replace a variable name.
 You can use the built-in `:substitute` command, but this vim plug-in achieves this task faster and more intuitively.
+If you use the `:substitute` command often or if you wish vim had support for [multiple selections](https://www.mediasuite.co.nz/blog/sublime-tips-multi-cursor-mastery/), this plug-in is for you.
+
 I got the idea for this plug-in after reading [this blog post](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db) by Christoph Hermank.
 
 ## Example usage ##

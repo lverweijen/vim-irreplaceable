@@ -2,7 +2,7 @@
 
 Let's say you want to replace a variable name.
 You can use the built-in `:substitute` command, but this vim plug-in achieves this task faster and more intuitively.
-I got the idea for this plug-in after reading [https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db](this blog post) by Christoph Hermank.
+I got the idea for this plug-in after reading [this blog post](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db) by Christoph Hermank.
 
 ## Example usage ##
 
@@ -43,8 +43,10 @@ Use some plugin manager, e.g.
 ## Configuration ##
 
 Rebind the following to whatever you wish:
+
 - `<Plug>(easy-refactor-y)`
 - `<Plug>(easy-refactor-d)`
 - `<Plug>(easy-refactor-c)`
 
-By default these are bound to `y.`, `d.` and `c.`
+By default these are bound to `y.`, `d.` and `c.` in normal mode.
+In visual mode, the default bindings are `.y`, `.d`, `.c`.

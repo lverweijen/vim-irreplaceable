@@ -1,4 +1,4 @@
-# Irrepleaceable #
+# Irreplaceable #
 
 Let's say you want to replace a variable name.
 You can use the built-in `:substitute` command, but this vim plug-in achieves this task faster and more intuitively.
